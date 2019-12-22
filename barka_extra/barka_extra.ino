@@ -1,17 +1,7 @@
-/*
- Darude - Sandstorm
- 
- (c) Jordi Agricola 2014
- 
- Speaker on port 8
- 
- */
+
  #include "pitches.h"
  
-// notes in the melody:
- 
-// note durations: 4 = quarter note, 8 = eighth note, etc.:
- 
+
  
  int n1 = 300;
  int n2 = 600;
